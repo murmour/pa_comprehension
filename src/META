@@ -1,0 +1,10 @@
+# OASIS_START
+# DO NOT EDIT (digest: 5459494ed2fd672091e890390b9f8afe)
+version = "0.4"
+description = "Syntax extension for comprehension expressions"
+requires = "camlp4 batteries"
+archive(syntax, preprocessor) = "pa_comprehension.cma"
+archive(syntax, toploop) = "pa_comprehension.cma"
+exists_if = "pa_comprehension.cma"
+# OASIS_STOP
+

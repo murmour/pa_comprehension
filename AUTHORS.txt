@@ -1,0 +1,14 @@
+(* OASIS_START *)
+(* DO NOT EDIT (digest: 1eb9c57a25aa68036ba49bbd64ce496d) *)
+
+Authors of pa_comprehension:
+
+* Nicolas Pouillard
+* David Teller
+* Gabriel Scherer
+
+Current maintainers of pa_comprehension:
+
+* Max Mouratov
+
+(* OASIS_STOP *)
